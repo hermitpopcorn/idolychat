@@ -48,6 +48,7 @@
 		border: none;
 		padding: 0;
 		width: 4em;
+		min-width: 4em;
 		height: auto;
 		aspect-ratio: 1/1;
 		overflow: clip;

@@ -130,6 +130,7 @@
 		width: 100vw;
 		height: 100vh;
 		overflow: hidden;
+		min-width: 420px;
 	}
 	.container-layout {
 		width: 100%;

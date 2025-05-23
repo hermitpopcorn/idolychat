@@ -130,6 +130,7 @@
 		flex-direction: row;
 		flex-wrap: wrap;
 		gap: 0.5em;
+		justify-content: space-around;
 	}
 	.icon-selector button {
 		padding: 0.5em;
